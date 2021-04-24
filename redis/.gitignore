@@ -31,22 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/common/.gitignore
-/common/mvnw
-/common/mvnw.cmd
-/common/.mvn/wrapper/
-/javalearn/.gitignore
-/javalearn/.mvn/wrapper/
-/javalearn/mvnw
-/javalearn/mvnw.cmd
-/kafka/.mvn/wrapper/
-/kafka/.gitignore
-/kafka/mvnw
-/kafka/mvnw.cmd
-/redis/.mvn/wrapper/
-/redis/mvnw
-/redis/mvnw.cmd
-/zookeeper/.mvn/wrapper/
-/zookeeper/.gitignore
-/zookeeper/mvnw
-/zookeeper/mvnw.cmd
